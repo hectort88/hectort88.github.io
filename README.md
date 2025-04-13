@@ -12,6 +12,7 @@
 - [Beej's Guide to C Programming](https://beej.us/guide/bgc/)
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
 - [Programming from the Ground Up](https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf)
+- [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 - [Advanced C](https://www.youtube.com/playlist?list=PL71Y0EmrppR0KyZvQWj63040UEzKQU7n8)
 - [Awesome Modern C++](https://awesomecpp.com/)
 - [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)

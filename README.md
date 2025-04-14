@@ -2,11 +2,12 @@
 
 ## Computer Architecture
 - [Computer Hardware and Architecture](https://www.youtube.com/playlist?list=PLTd6ceoshprfg23JMtwGysCm4tlc0I1ou)
-- [Modern CPU Architecture Part 1](https://www.youtube.com/watch?v=vgPFzblBh7w)
-- [Modern CPU Architecture Part 2](https://www.youtube.com/watch?v=o_WXTRS2qTY)
+- [Modern CPU Architecture Part 1](https://www.youtube.com/watch?v=vgPFzblBh7w) ✅
+- [Modern CPU Architecture Part 2](https://www.youtube.com/watch?v=o_WXTRS2qTY) ✅
 
 ## Operating Systems
 - [Exploring Operating Systems](https://mohitmishra786.github.io/exploring-os/src/)
+- [CS 162: Operating Systems and Systems Programming - Berkeley](https://www.youtube.com/playlist?list=PLF2K2xZjNEf97A_uBCwEl61sdxWVP7VWC)
 
 ## Software development
 - [Beej's Guide to C Programming](https://beej.us/guide/bgc/)

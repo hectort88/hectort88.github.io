@@ -4,6 +4,7 @@
 - [Computer Hardware and Architecture](https://www.youtube.com/playlist?list=PLTd6ceoshprfg23JMtwGysCm4tlc0I1ou)
 - [Modern CPU Architecture Part 1](https://www.youtube.com/watch?v=vgPFzblBh7w) ✅
 - [Modern CPU Architecture Part 2](https://www.youtube.com/watch?v=o_WXTRS2qTY) ✅
+- [Learn Assembly Programming With ChibiAkumas!](https://www.assemblytutorial.com/)
 
 ## Operating Systems
 - [Exploring Operating Systems](https://mohitmishra786.github.io/exploring-os/src/)
@@ -13,12 +14,13 @@
 - [Beej's Guide to C Programming](https://beej.us/guide/bgc/)
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
 - [Programming from the Ground Up](https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf)
-- [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+
 - [Advanced C](https://www.youtube.com/playlist?list=PL71Y0EmrppR0KyZvQWj63040UEzKQU7n8)
 - [Awesome Modern C++](https://awesomecpp.com/)
 - [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 - [Notes of data structures and C++ concepts CS225](https://courses.grainger.illinois.edu/cs225/fa2022/resources/)
 - [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/)
+- [Crafting Interpreters](https://craftinginterpreters.com/)
 
 ## Databases
 - [MySQL for Developers](https://planetscale.com/learn/courses/mysql-for-developers)
@@ -30,10 +32,16 @@
 - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 - [Introduction to Parallel Computing Tutorial](https://hpc.llnl.gov/documentation/tutorials/introduction-parallel-computing-tutorial)
 - [MIT 6.172 Performance Engineering of Software Systems, Fall 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf)
+- [Hacktical C](https://github.com/codr7/hacktical-c)
+- [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+- [What every compiler writer should know about programmers](https://c9x.me/compile/bib/ubc.pdf)
 
 ## Privacy
 - [Privacy Tools](https://www.privacytools.io/)
 - [Awesome Privacy](https://awesome-privacy.xyz/)
+
+## Linux/Unix
+- [The Linux audio stack demystified](https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/)
 
 ## Youtube Channels
 - [@NoBoilerplate](https://www.youtube.com/@NoBoilerplate)
@@ -41,3 +49,6 @@
 - [@BranchEducation](https://www.youtube.com/@BranchEducation)
 - [Kay Lack](https://www.youtube.com/@neoeno4242)
 - [Brian Will](https://www.youtube.com/@briantwill)
+
+## Blogs
+- [Unix Digest](https://unixdigest.com/articles.html)

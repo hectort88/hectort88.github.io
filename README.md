@@ -14,7 +14,6 @@
 - [Beej's Guide to C Programming](https://beej.us/guide/bgc/)
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
 - [Programming from the Ground Up](https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf)
-
 - [Advanced C](https://www.youtube.com/playlist?list=PL71Y0EmrppR0KyZvQWj63040UEzKQU7n8)
 - [Awesome Modern C++](https://awesomecpp.com/)
 - [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
@@ -43,12 +42,14 @@
 ## Linux/Unix
 - [The Linux audio stack demystified](https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/)
 
+## Blogs
+- [Unix Digest](https://unixdigest.com/articles.html)
+
 ## Youtube Channels
 - [@NoBoilerplate](https://www.youtube.com/@NoBoilerplate)
 - [@coredumped](https://www.youtube.com/@CoreDumpped)
 - [@BranchEducation](https://www.youtube.com/@BranchEducation)
 - [Kay Lack](https://www.youtube.com/@neoeno4242)
 - [Brian Will](https://www.youtube.com/@briantwill)
+- [BitLemon](https://www.youtube.com/@BitLemonSoftware)
 
-## Blogs
-- [Unix Digest](https://unixdigest.com/articles.html)

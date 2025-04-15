@@ -38,6 +38,6 @@
 ## Youtube Channels
 - [@NoBoilerplate](https://www.youtube.com/@NoBoilerplate)
 - [@coredumped](https://www.youtube.com/@CoreDumpped)
-- [@Branchducation](https://www.youtube.com/@BranchEducation)
+- [@BranchEducation](https://www.youtube.com/@BranchEducation)
 - [Kay Lack](https://www.youtube.com/@neoeno4242)
 - [Brian Will](https://www.youtube.com/@briantwill)

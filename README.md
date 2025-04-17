@@ -20,6 +20,7 @@
 - [Notes of data structures and C++ concepts CS225](https://courses.grainger.illinois.edu/cs225/fa2022/resources/)
 - [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/)
 - [Crafting Interpreters](https://craftinginterpreters.com/)
+- [Learn Makefiles](https://makefiletutorial.com/)
 
 ## Databases
 - [MySQL for Developers](https://planetscale.com/learn/courses/mysql-for-developers)
@@ -44,12 +45,14 @@
 
 ## Blogs
 - [Unix Digest](https://unixdigest.com/articles.html)
+- [Embeded in Academia](https://blog.regehr.org/)
+- [LLVM blog](https://blog.llvm.org/)
 
 ## Youtube Channels
 - [@NoBoilerplate](https://www.youtube.com/@NoBoilerplate)
 - [@coredumped](https://www.youtube.com/@CoreDumpped)
 - [@BranchEducation](https://www.youtube.com/@BranchEducation)
+- [@BitLemon](https://www.youtube.com/@BitLemonSoftware)
 - [Kay Lack](https://www.youtube.com/@neoeno4242)
 - [Brian Will](https://www.youtube.com/@briantwill)
-- [BitLemon](https://www.youtube.com/@BitLemonSoftware)
 

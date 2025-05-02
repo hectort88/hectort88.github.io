@@ -90,7 +90,7 @@ Here are some tools to examine PE files:
 
 **Further Exploration:**
 
-*   Microsoft's documentation on PE: [https://learn.microsoft.com/en-us/windows/programming/system-details/pe-format](https://learn.microsoft.com/en-us/windows/programming/system-details/pe-format)
+*   Microsoft's documentation on PE: [https://learn.microsoft.com/en-us/windows/win32/debug/pe-format](https://learn.microsoft.com/en-us/windows/win32/debug/pe-format)
 *   PEiD (PE Identifier): A tool for identifying the compiler and packer used to create a PE file.
 
 **Key Differences from ELF:**

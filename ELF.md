@@ -93,5 +93,4 @@ Several tools can help you examine ELF files:
 
 **Further Exploration:**
 
-*   The official ELF specification is available from the IEEE: [https://ieeexplore.ieee.org/document/1250486](https://ieeexplore.ieee.org/document/1250486)
-*   Many tutorials and articles online provide more detailed explanations of specific aspects of ELF.
+*   Wikipedia: [https://en.wikipedia.org/wiki/Executable_and_Linkable_Format](https://en.wikipedia.org/wiki/Executable_and_Linkable_Format).

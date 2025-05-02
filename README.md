@@ -13,6 +13,7 @@
 ## Software development
 - [Beej's Guide to C Programming](https://beej.us/guide/bgc/)
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
+- [The Development of the C Language](https://csapp.cs.cmu.edu/3e/docs/chistory.html)
 - [Programming from the Ground Up](https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf)
 - [Advanced C](https://www.youtube.com/playlist?list=PL71Y0EmrppR0KyZvQWj63040UEzKQU7n8)
 - [Awesome Modern C++](https://awesomecpp.com/)
@@ -47,6 +48,7 @@
 - [Unix Digest](https://unixdigest.com/articles.html)
 - [Embeded in Academia](https://blog.regehr.org/)
 - [LLVM blog](https://blog.llvm.org/)
+- [@gingerBill](https://www.gingerbill.org/)
 
 ## Youtube Channels
 - [@NoBoilerplate](https://www.youtube.com/@NoBoilerplate)

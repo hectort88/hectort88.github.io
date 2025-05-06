@@ -15,6 +15,7 @@
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
 - [The Development of the C Language](https://csapp.cs.cmu.edu/3e/docs/chistory.html)
 - [Programming from the Ground Up](https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf)
+- [Learning to code C/C++ with Arduino](https://www.youtube.com/playlist?list=PLv5bCJpKDWIazJBFmeTLXOJ6CwLAxvVGY)
 - [Advanced C](https://www.youtube.com/playlist?list=PL71Y0EmrppR0KyZvQWj63040UEzKQU7n8)
 - [Awesome Modern C++](https://awesomecpp.com/)
 - [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
@@ -22,6 +23,7 @@
 - [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/)
 - [Crafting Interpreters](https://craftinginterpreters.com/)
 - [Learn Makefiles](https://makefiletutorial.com/)
+
 
 ## Databases
 - [MySQL for Developers](https://planetscale.com/learn/courses/mysql-for-developers)
@@ -42,6 +44,7 @@
 - [Awesome Privacy](https://awesome-privacy.xyz/)
 
 ## Linux/Unix
+- [Unix Threads in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2)
 - [The Linux audio stack demystified](https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/)
 
 ## Blogs

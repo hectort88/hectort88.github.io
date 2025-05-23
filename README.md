@@ -22,6 +22,7 @@
 - [Notes of data structures and C++ concepts CS225](https://courses.grainger.illinois.edu/cs225/fa2022/resources/)
 - [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/)
 - [Crafting Interpreters](https://craftinginterpreters.com/)
+- [Modern Embedded Systems Programming](https://www.youtube.com/playlist?list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM)
 - [Learn Makefiles](https://makefiletutorial.com/)
 
 
@@ -36,6 +37,7 @@
 - [Introduction to Parallel Computing Tutorial](https://hpc.llnl.gov/documentation/tutorials/introduction-parallel-computing-tutorial)
 - [MIT 6.172 Performance Engineering of Software Systems, Fall 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf)
 - [Hacktical C](https://github.com/codr7/hacktical-c)
+- [Unix Threads in C](https://www.youtube.com/playlist?list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2)
 - [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 - [What every compiler writer should know about programmers](https://c9x.me/compile/bib/ubc.pdf)
 

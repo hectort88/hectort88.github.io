@@ -53,6 +53,7 @@
 - [LLVM blog](https://blog.llvm.org/)
 - [@gingerBill](https://www.gingerbill.org/)
 - [Mohit Mishra](https://mohitmishra786.github.io/chessman/)
+- [Jim Fisher](https://jameshfisher.com/)
 
 ## Youtube Channels
 - [@NoBoilerplate](https://www.youtube.com/@NoBoilerplate)

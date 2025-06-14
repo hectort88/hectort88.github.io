@@ -25,7 +25,6 @@
 - [Modern Embedded Systems Programming](https://www.youtube.com/playlist?list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM)
 - [Learn Makefiles](https://makefiletutorial.com/)
 
-
 ## Databases
 - [MySQL for Developers](https://planetscale.com/learn/courses/mysql-for-developers)
 - [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
@@ -53,6 +52,7 @@
 - [Embeded in Academia](https://blog.regehr.org/)
 - [LLVM blog](https://blog.llvm.org/)
 - [@gingerBill](https://www.gingerbill.org/)
+- [Mohit Mishra](https://mohitmishra786.github.io/chessman/)
 
 ## Youtube Channels
 - [@NoBoilerplate](https://www.youtube.com/@NoBoilerplate)

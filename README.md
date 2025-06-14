@@ -54,6 +54,7 @@
 - [@gingerBill](https://www.gingerbill.org/)
 - [Mohit Mishra](https://mohitmishra786.github.io/chessman/)
 - [Jim Fisher](https://jameshfisher.com/)
+- [Jens Gustedt's Blog](https://gustedt.wordpress.com/)
 
 ## Youtube Channels
 - [@NoBoilerplate](https://www.youtube.com/@NoBoilerplate)

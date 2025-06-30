@@ -64,4 +64,5 @@
 - [@BitLemon](https://www.youtube.com/@BitLemonSoftware)
 - [Kay Lack](https://www.youtube.com/@neoeno4242)
 - [Brian Will](https://www.youtube.com/@briantwill)
+- [Barry Brown](https://www.youtube.com/@profbbrown)
 

@@ -31,6 +31,9 @@
 - [Build Your Own Database From Scratch in Go](https://build-your-own.org/database/)
 - [Build Your Own Redis with C/C++](https://build-your-own.org/redis/)
 
+## Datscience
+- [Data science for economists](https://github.com/uo-ec607/lectures)
+
 ## Optimization
 - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 - [Introduction to Parallel Computing Tutorial](https://hpc.llnl.gov/documentation/tutorials/introduction-parallel-computing-tutorial)

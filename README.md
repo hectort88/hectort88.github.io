@@ -31,8 +31,9 @@
 - [Build Your Own Database From Scratch in Go](https://build-your-own.org/database/)
 - [Build Your Own Redis with C/C++](https://build-your-own.org/redis/)
 
-## Datscience
+## Data Science
 - [Data science for economists](https://github.com/uo-ec607/lectures)
+- [FreeCodeCamp Data Science](https://www.youtube.com/playlist?list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1)
 
 ## Optimization
 - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)

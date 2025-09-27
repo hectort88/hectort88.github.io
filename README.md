@@ -24,6 +24,7 @@
 - [Crafting Interpreters](https://craftinginterpreters.com/)
 - [Modern Embedded Systems Programming](https://www.youtube.com/playlist?list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM)
 - [Learn Makefiles](https://makefiletutorial.com/)
+- [MIT Missing Semester of CS Education](https://missing.csail.mit.edu/)
 
 ## Databases
 - [MySQL for Developers](https://planetscale.com/learn/courses/mysql-for-developers)
@@ -59,6 +60,7 @@
 - [Mohit Mishra](https://mohitmishra786.github.io/chessman/)
 - [Jim Fisher](https://jameshfisher.com/)
 - [Jens Gustedt's Blog](https://gustedt.wordpress.com/)
+- [Max Bernstein](https://bernsteinbear.com/)
 
 ## Youtube Channels
 - [@NoBoilerplate](https://www.youtube.com/@NoBoilerplate)

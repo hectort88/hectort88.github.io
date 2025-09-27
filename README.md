@@ -5,6 +5,7 @@
 - [Modern CPU Architecture Part 1](https://www.youtube.com/watch?v=vgPFzblBh7w) ✅
 - [Modern CPU Architecture Part 2](https://www.youtube.com/watch?v=o_WXTRS2qTY) ✅
 - [Learn Assembly Programming With ChibiAkumas!](https://www.assemblytutorial.com/)
+- [Fundamentals of GPU Architecture](https://www.youtube.com/watch?v=4Pi424VJgcE&list=PLxNPSjHT5qvscDTMaIAY9boOOXAJAS7y4)
 
 ## Operating Systems
 - [Exploring Operating Systems](https://mohitmishra786.github.io/exploring-os/src/)

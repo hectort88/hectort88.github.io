@@ -32,6 +32,7 @@
 - [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
 - [Build Your Own Database From Scratch in Go](https://build-your-own.org/database/)
 - [Build Your Own Redis with C/C++](https://build-your-own.org/redis/)
+- [PostgreSQL Tutorial (NEON)](https://neon.com/postgresql/tutorial)
 
 ## Data Science
 - [Data science for economists](https://github.com/uo-ec607/lectures)

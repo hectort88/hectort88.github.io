@@ -1,4 +1,4 @@
-Okay, let's walk through creating a shared library (also known as a dynamic library) with C and GCC, then linking it into your main program.  We'll cover both creation and usage.
+Creating a shared library (also known as a dynamic library) with C and GCC, then linking it into your main program. 
 
 **1. Creating the Shared Library:**
 
@@ -98,5 +98,3 @@ Let's say you have the `libpng` library installed on your system (usually found 
 *   `-l<library_name>`: Links against a library named `lib<library_name>.so`.
 *   `LD_LIBRARY_PATH`: Environment variable used by the dynamic linker at runtime.  Use with caution, especially in production environments.
 *   `/etc/ld.so.conf` and `sudo ldconfig`: For permanent system-wide changes to library paths.
-
-By following these steps, you can successfully create and use shared libraries with GCC in your C projects. Remember to handle potential errors (e.g., missing libraries) gracefully.

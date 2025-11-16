@@ -65,6 +65,7 @@
 - [Max Bernstein](https://bernsteinbear.com/)
 
 ## Youtube Channels
+- [@MattGodbolt](https://www.youtube.com/@MattGodbolt)
 - [@NoBoilerplate](https://www.youtube.com/@NoBoilerplate)
 - [@coredumped](https://www.youtube.com/@CoreDumpped)
 - [@BranchEducation](https://www.youtube.com/@BranchEducation)

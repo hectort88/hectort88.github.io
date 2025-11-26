@@ -71,6 +71,7 @@
 - [@BranchEducation](https://www.youtube.com/@BranchEducation)
 - [@FasterThanLime](https://www.youtube.com/@fasterthanlime)
 - [@BitLemon](https://www.youtube.com/@BitLemonSoftware)
+- [@javidx9](https://www.youtube.com/javidx9)
 - [Kay Lack](https://www.youtube.com/@neoeno4242)
 - [Brian Will](https://www.youtube.com/@briantwill)
 - [Barry Brown](https://www.youtube.com/@profbbrown)

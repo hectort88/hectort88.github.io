@@ -29,6 +29,7 @@
 
 ## Databases
 - [MySQL for Developers](https://planetscale.com/learn/courses/mysql-for-developers)
+- [Intro to Postgres](https://databaseschool.com/series/intro-to-postgres/videos/203)
 - [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
 - [Build Your Own Database From Scratch in Go](https://build-your-own.org/database/)
 - [Build Your Own Redis with C/C++](https://build-your-own.org/redis/)

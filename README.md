@@ -2,6 +2,8 @@
 
 ## Computer Architecture
 - [Computer Hardware and Architecture](https://www.youtube.com/playlist?list=PLTd6ceoshprfg23JMtwGysCm4tlc0I1ou)
+- [Putting the “You” in CPU](https://cpu.land/)
+- [Computer Systems Fundamentals](https://w3.cs.jmu.edu/kirkpams/OpenCSF/Books/csf/html/index.html)
 - [Modern CPU Architecture Part 1](https://www.youtube.com/watch?v=vgPFzblBh7w) ✅
 - [Modern CPU Architecture Part 2](https://www.youtube.com/watch?v=o_WXTRS2qTY) ✅
 - [Learn Assembly Programming With ChibiAkumas!](https://www.assemblytutorial.com/)

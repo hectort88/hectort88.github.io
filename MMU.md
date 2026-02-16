@@ -77,8 +77,8 @@ Without the TLB, modern computing would be bottlenecked by the speed of your RAM
 Feature	Page Table	TLB (Translation Lookaside Buffer)
 What is it?	A complete map (Data Structure).	A fast cache (Hardware).
 
-| Location | Main Memory (RAM).             | Inside the CPU/MMU.                   |
-| :---     |    :----:                      |                                  ---: |
+| Location |        Main Memory (RAM).      | Inside the CPU/MMU.                   |
+| :---     |             :----:             |                                  ---: |
 | Size	| Large (Contains all mappings).	| Very Small (Contains recent mappings).|
 | Speed	| Slower (Requires a RAM access).	| Extremely Fast (Hardware speed).      |
 | Scope	| One exists per process.	        | Shared/swapped by the hardware.       |

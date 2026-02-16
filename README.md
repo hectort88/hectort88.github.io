@@ -11,6 +11,7 @@
 
 ## Operating Systems
 - [Exploring Operating Systems](https://mohitmishra786.github.io/exploring-os/src/)
+- [Dive into Systems](https://diveintosystems.org/)
 - [CS 162: Operating Systems and Systems Programming - Berkeley](https://www.youtube.com/playlist?list=PLF2K2xZjNEf97A_uBCwEl61sdxWVP7VWC)
 
 ## Software development

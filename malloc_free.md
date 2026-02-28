@@ -100,16 +100,16 @@ p = NULL;
 
 malloc isn't magic; it can fail. When it does, it returns NULL. This typically happens if:
 
-* Insufficient Memory: The most common reason is that the system (or the process) has run out of available memory (RAM and swap space) or virtual address space to fulfill the request.
+- Insufficient Memory: The most common reason is that the system (or the process) has run out of available memory (RAM and swap space) or virtual address space to fulfill the request.
 
-* Memory Fragmentation: Even if the total available memory is enough, it may be too fragmented into small, non-contiguous blocks to satisfy a request for a single, large, contiguous block.
+- Memory Fragmentation: Even if the total available memory is enough, it may be too fragmented into small, non-contiguous blocks to satisfy a request for a single, large, contiguous block.
 
-* Requesting a Zero Size: If the size of the requested memory space is zero, the behavior is implementation-defined; the function may return a NULL pointer or a unique pointer that cannot be dereferenced but can be passed to free().
+- Requesting a Zero Size: If the size of the requested memory space is zero, the behavior is implementation-defined; the function may return a NULL pointer or a unique pointer that cannot be dereferenced but can be passed to free().
 
-* System-Imposed Limits: The operating system may impose limits on the amount of memory a single process can use, which can cause malloc to fail even if the machine has free memory.
+- System-Imposed Limits: The operating system may impose limits on the amount of memory a single process can use, which can cause malloc to fail even if the machine has free memory.
 
-* Heap Corruption: Errors in a program, such as writing past the end of an allocated block or freeing the same block multiple times, can corrupt the internal structures of the memory allocator, leading to unpredictable behavior including malloc returning NULL.
-* Implementation Specifics: Some embedded systems or specialized C library implementations may not support dynamic allocation at all and thus malloc will always return NULL, regardless of the request size. 
+- Heap Corruption: Errors in a program, such as writing past the end of an allocated block or freeing the same block multiple times, can corrupt the internal structures of the memory allocator, leading to unpredictable behavior including malloc returning NULL.
+- Implementation Specifics: Some embedded systems or specialized C library implementations may not support dynamic allocation at all and thus malloc will always return NULL, regardless of the request size. 
 
 ```c
 #include <stdio.h>

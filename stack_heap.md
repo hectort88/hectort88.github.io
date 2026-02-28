@@ -61,3 +61,5 @@ The data segments store the application's global and static variables.
 
 
 The general layout is designed to allow the Stack and the Heap to grow towards each other, maximizing the available space before a collision (called a "stack overflow" or running out of heap space) occurs.
+
+[![Memory structure](/images/memparts.png)](/images/memparts.png)

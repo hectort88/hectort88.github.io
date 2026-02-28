@@ -63,3 +63,51 @@ The data segments store the application's global and static variables.
 The general layout is designed to allow the Stack and the Heap to grow towards each other, maximizing the available space before a collision (called a "stack overflow" or running out of heap space) occurs.
 
 [![Memory structure](/images/memparts.png)](/images/memparts.png)
+
+### Example with arrays:
+
+If you declare an array normally (without malloc), the answer depends entirely on where in your code you declare it. In C, it breaks down into two main scenarios:
+1. Inside a Function (Local Variable) → The Stack
+
+If you declare the array inside a function (including main), it is allocated on the Stack.
+
+```c
+void myFunction() {
+    int scores[100]; // ALLOCATED ON THE STACK
+    // ...
+} // Memory is automatically reclaimed here!
+```
+
+- Behavior: The memory is automatically "pushed" onto the stack when the function starts and "popped" off when the function ends.
+
+- Risk: If you make this array too large (e.g., int big[1000000]), you might cause a Stack Overflow because the stack is usually quite small (often 1MB to 8MB).
+
+2. Outside a Function (Global/Static) → Data Segment
+
+If you declare the array outside of any function, it is not on the Stack and not on the Heap. It lives in a special area called the Data Segment (or BSS).
+
+```c
+int globalArray[100]; // ALLOCATED IN THE DATA SEGMENT
+
+int main() {
+    static int staticArray[50]; // ALSO IN THE DATA SEGMENT
+    return 0;
+}
+```
+
+- Behavior: This memory is allocated when the program starts and stays there until the program exits.
+
+- Difference: Unlike the Heap, you cannot resize this, and unlike the Stack, it doesn't disappear when a function ends.
+
+### The "Gotcha": Returning a Stack Array
+
+A very common mistake for beginners is trying to return a stack-allocated array from a function. Don't do this!
+
+```c
+int* getScores() {
+    int scores[3] = {1, 2, 3}; 
+    return scores; // DANGER!
+}
+```
+
+When getScores finishes, the Stack memory for scores is deleted. The pointer you return now points to "garbage" memory. If you want to return an array from a function, you must use malloc to put it on the Heap.

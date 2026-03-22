@@ -45,6 +45,7 @@
 
 ## Optimization
 - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
+- [Uni.lu High Performance Computing (HPC) Tutorials](https://ulhpc-tutorials.readthedocs.io/en/latest/)
 - [Introduction to Parallel Computing Tutorial](https://hpc.llnl.gov/documentation/tutorials/introduction-parallel-computing-tutorial)
 - [MIT 6.172 Performance Engineering of Software Systems, Fall 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf)
 - [Hacktical C](https://github.com/codr7/hacktical-c)

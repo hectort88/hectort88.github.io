@@ -82,4 +82,5 @@
 - [@javidx9](https://www.youtube.com/javidx9)
 - [Kay Lack](https://www.youtube.com/@neoeno4242)
 - [Brian Will](https://www.youtube.com/@briantwill)
+- [Computer Science Lessons](https://www.youtube.com/@ComputerScienceLessons)
 
